@@ -47,3 +47,12 @@ nav ul li .active{
 .image img{
     width: 100px; 
 }
+
+div.socials {
+      width: 50px;
+      height: 75px;
+}
+img {
+     max-width: 100%;
+     max-height: 100%;
+}
