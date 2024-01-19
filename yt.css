@@ -48,3 +48,15 @@ nav ul li .active{
     width: 100px; 
 }
 
+section,aside{
+    height:500px;
+}
+section {
+    background-color: #ccc;
+}
+aside {
+    background-color: orange;
+    width: 40%;
+    display: inline-block;
+    float: right;
+}
