@@ -49,13 +49,10 @@ nav ul li .active{
 }
 
 section,aside{
-    height:500px;
+    height:300px;
 }
-section {
-    background-color: #ccc;
-}
+
 aside {
-    background-color: orange;
     width: 40%;
     display: inline-block;
     float: right;
